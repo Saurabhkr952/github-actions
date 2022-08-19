@@ -33,7 +33,7 @@ jobs:
       with:
         arguments: build
  
-steps:
+ steps:
     - uses: actions/checkout@v2
       name: Check out code
 
